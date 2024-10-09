@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"super-kasir","appId":"1:861820072053:android:4b78e83a586bd610bc483c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"super-kasir","configurations":{"android":"1:861820072053:android:4b78e83a586bd610bc483c","ios":"1:861820072053:ios:aa56de34f79c39bdbc483c"}}}}}}
